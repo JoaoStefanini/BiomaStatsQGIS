@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/bioma_stats_QGIS" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
